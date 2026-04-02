@@ -1,20 +1,27 @@
 # Hi 👋, I'm Doolam Dattatreya
 
-### MCA Cybersecurity Student | Aspiring Cloud Security Engineer ☁️
+MCA Cybersecurity Student | Aspiring Cloud Security Engineer
 
-🔐 Passionate about securing cloud environments and solving real-world cybersecurity challenges
-☁️ Currently learning AWS, IAM, Linux, networking, and cloud security fundamentals
-🛠️ Building hands-on projects in cybersecurity and cloud security
-📚 Exploring secure cloud architecture, monitoring, and threat detection
+🔐 Passionate about securing cloud environments and solving real-world cybersecurity challenges  
+
+☁️ Currently learning AWS, IAM, Linux, networking, and cloud security fundamentals  
+
+🛠️ Building hands-on projects in cybersecurity and cloud security  
+
+📚 Exploring secure cloud architecture, monitoring, and threat detection  
 
 ---
 
-## ☁️ Cloud Security Focus
+## ☁️ Core Areas of Focus
 
 * AWS IAM (Users, Groups, Roles, Policies)
+  
 * Linux system administration & security basics
+  
 * Networking fundamentals for cloud environments
+  
 * Security monitoring and logging
+  
 * Cloud misconfiguration awareness
 
 ---
