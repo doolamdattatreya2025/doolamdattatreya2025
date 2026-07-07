@@ -1,62 +1,21 @@
-# Hi 👋, I'm Doolam Dattatreya
+### Hi, I'm Doolam 👋
 
-MCA Cybersecurity Student | Aspiring Cloud Security Engineer
+MCA student focused on cybersecurity, currently going deep on AWS and cloud security.
 
-🔐 Passionate about securing cloud environments and solving real-world cybersecurity challenges  
+I got into this after messing around with home network security during undergrad — 
+ended up down a rabbit hole of IAM policies and never really came back up.
 
-☁️ Currently learning AWS, IAM, Linux, networking, and cloud security fundamentals  
+**Right now I'm working through:**
+- Building a network vulnerability scanner in Python (currently fighting with 
+  false positives on the port scan logic)
+- Set up a basic firewall with iptables — mostly to understand what actually 
+  happens before reaching for a managed solution
+- Going through Wazuh for SIEM basics, breaking things in a home lab on purpose
 
-🛠️ Building hands-on projects in cybersecurity and cloud security  
+**Tools I actually use day to day:**
+AWS IAM, Linux, Nmap, Wireshark, Burp Suite, Python, Bash
 
-📚 Exploring secure cloud architecture, monitoring, and threat detection  
+Still figuring out the difference between "I understand this" and "I can explain 
+this in an interview," if I'm honest.
 
----
-
-## ☁️ Core Areas of Focus
-
-* AWS IAM (Users, Groups, Roles, Policies)
-  
-* Linux system administration & security basics
-  
-* Networking fundamentals for cloud environments
-  
-* Security monitoring and logging
-  
-* Cloud misconfiguration awareness
-
----
-
-## 🚀 Projects I'm Working On
-
-* **Network Vulnerability Scanner** – Python-based scanner for identifying open ports and common vulnerabilities
-* **Linux Firewall Implementation** – Firewall setup using iptables and Python
-* **Basic Malware Analysis Tool** – Static and dynamic analysis of sample malware files
-* **Log Analyzer** – Python tool to detect suspicious patterns in system logs
-
----
-
-## 🧠 Skills & Tools
-
-* **Cloud & Security:** AWS, IAM, Security Fundamentals, Security Monitoring
-* **Operating Systems:** Linux
-* **Networking:** OSI Model, TCP/IP, Protocols
-* **Tools:** Nmap, Wireshark, Burp Suite, Metasploit
-* **Programming:** Python, Bash, Java (Basics)
-
----
-
-## 🚀 Cloud Security Journey
-
-* Completed AWS IAM hands-on labs
-* Practicing Linux and networking fundamentals
-* Building beginner-level cloud security projects
-* Continuously learning cloud security best practices
-
----
-
-## 📫 Let's Connect
-
-* Email: [dulamdattu83@gmail.com](mailto:dulamdattu83@gmail.com)
-* LinkedIn:www.linkedin.com/in/dattatreya-doolam-1244a0201
-
----
+📫 dulamdattu81@gmail.com · [LinkedIn](https://www.linkedin.com/in/dattatreya-doolam-1244a0201)
