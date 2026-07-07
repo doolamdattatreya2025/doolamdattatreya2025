@@ -18,4 +18,4 @@ AWS IAM, Linux, Nmap, Wireshark, Burp Suite, Python, Bash
 Still figuring out the difference between "I understand this" and "I can explain
 this in an interview," if I'm honest.
 
-📫 dulamdattu81@gmail.com · [LinkedIn](https://www.linkedin.com/in/dattatreya-doolam-1244a0201)
+📫 dulamdattu83@gmail.com · [LinkedIn](https://www.linkedin.com/in/dattatreya-doolam-1244a0201)
